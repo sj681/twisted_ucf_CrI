@@ -1,0 +1,8 @@
+ #unit cell size 
+1000	1000	13.204
+ #unit cell vectors
+ 1     0	   0
+ 0     1	   0
+ 0     0	   1
+ #Atoms
+92358	2
